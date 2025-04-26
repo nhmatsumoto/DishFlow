@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\NextHome-API\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|solutionrelative:nexthome.api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869E69BC-F834-433F-A06F-D491B4E652C8}|..\\tests\\NextHome.Application.Tests\\NextHome.Application.Tests.csproj|c:\\repositorio\\nexthome-api\\tests\\nexthome.application.tests\\usecases\\properties\\createpropertytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\users\\deleteuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\users\\deleteuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\users\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\users\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\properties\\updatepropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\properties\\updatepropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\properties\\getallpropertiesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\properties\\getallpropertiesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\properties\\deletepropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\properties\\deletepropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.application\\usecases\\properties\\createpropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E572336B-F872-435D-B58D-0E9431874E99}|NextHome.Application\\NextHome.Application.csproj|solutionrelative:nexthome.application\\usecases\\properties\\createpropertyusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|solutionrelative:nexthome.api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37623FAC-8AEE-4E2A-BEF4-D403BD1D210C}|NextHome.Infrastructure\\NextHome.Infrastructure.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37623FAC-8AEE-4E2A-BEF4-D403BD1D210C}|NextHome.Infrastructure\\NextHome.Infrastructure.csproj|solutionrelative:nexthome.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|c:\\repositorio\\nexthome-api\\src\\nexthome.api\\controllers\\playgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DB126-94DF-4D7C-8CDC-97CF66FD38AD}|NextHome.API\\NextHome.API.csproj|solutionrelative:nexthome.api\\controllers\\playgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "NextHome.API\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "NextHome.API\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:08:51.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatePropertyTests.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\tests\\NextHome.Application.Tests\\UseCases\\Properties\\CreatePropertyTests.cs",
+              "RelativeDocumentMoniker": "..\\tests\\NextHome.Application.Tests\\UseCases\\Properties\\CreatePropertyTests.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\tests\\NextHome.Application.Tests\\UseCases\\Properties\\CreatePropertyTests.cs",
+              "RelativeToolTip": "..\\tests\\NextHome.Application.Tests\\UseCases\\Properties\\CreatePropertyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:37:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteUserUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Users\\DeleteUserUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Users\\DeleteUserUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Users\\DeleteUserUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Users\\DeleteUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePropertyUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\UpdatePropertyUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Properties\\UpdatePropertyUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\UpdatePropertyUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Properties\\UpdatePropertyUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllPropertiesUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\GetAllPropertiesUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Properties\\GetAllPropertiesUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\GetAllPropertiesUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Properties\\GetAllPropertiesUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePropertyUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\DeletePropertyUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Properties\\DeletePropertyUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\DeletePropertyUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Properties\\DeletePropertyUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePropertyUseCase.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\CreatePropertyUseCase.cs",
+              "RelativeDocumentMoniker": "NextHome.Application\\UseCases\\Properties\\CreatePropertyUseCase.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Application\\UseCases\\Properties\\CreatePropertyUseCase.cs",
+              "RelativeToolTip": "NextHome.Application\\UseCases\\Properties\\CreatePropertyUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:20:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "NextHome.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "NextHome.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:31:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "NextHome.API\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "NextHome.API\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:20:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaygroundController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\PlaygroundController.cs",
+              "RelativeDocumentMoniker": "NextHome.API\\Controllers\\PlaygroundController.cs",
+              "ToolTip": "C:\\Repositorio\\NextHome-API\\src\\NextHome.API\\Controllers\\PlaygroundController.cs",
+              "RelativeToolTip": "NextHome.API\\Controllers\\PlaygroundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:20:07.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

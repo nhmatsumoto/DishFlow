@@ -1,0 +1,12 @@
+C:\Repositorio\NextHome-API\src\NextHome.Domain\bin\Release\net9.0\NextHome.Domain.deps.json
+C:\Repositorio\NextHome-API\src\NextHome.Domain\bin\Release\net9.0\NextHome.Domain.dll
+C:\Repositorio\NextHome-API\src\NextHome.Domain\bin\Release\net9.0\NextHome.Domain.pdb
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.AssemblyInfoInputs.cache
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.AssemblyInfo.cs
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.sourcelink.json
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.dll
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\refint\NextHome.Domain.dll
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\NextHome.Domain.pdb
+C:\Repositorio\NextHome-API\src\NextHome.Domain\obj\Release\net9.0\ref\NextHome.Domain.dll
