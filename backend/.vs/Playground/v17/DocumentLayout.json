@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\DishFlow\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|c:\\repositorio\\dishflow\\backend\\playground.api\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|solutionrelative:playground.api\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845BDA4C-3D50-42C5-9578-5EFE96876494}|Playground.Application\\Playground.Application.csproj|c:\\repositorio\\dishflow\\backend\\playground.application\\dtos\\updaterestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845BDA4C-3D50-42C5-9578-5EFE96876494}|Playground.Application\\Playground.Application.csproj|solutionrelative:playground.application\\dtos\\updaterestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|c:\\repositorio\\dishflow\\backend\\playground.api\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|solutionrelative:playground.api\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|c:\\repositorio\\dishflow\\backend\\playground.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|solutionrelative:playground.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F550571-3DA7-4668-96B6-BFEEFE4A6D43}|Playground.Infrastructure\\Playground.Infrastructure.csproj|c:\\repositorio\\dishflow\\backend\\playground.infrastructure\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F550571-3DA7-4668-96B6-BFEEFE4A6D43}|Playground.Infrastructure\\Playground.Infrastructure.csproj|solutionrelative:playground.infrastructure\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|c:\\repositorio\\dishflow\\backend\\playground.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE73A04-7F73-489A-89FB-2EC28433C583}|Playground.API\\Playground.API.csproj|solutionrelative:playground.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845BDA4C-3D50-42C5-9578-5EFE96876494}|Playground.Application\\Playground.Application.csproj|c:\\repositorio\\dishflow\\backend\\playground.application\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845BDA4C-3D50-42C5-9578-5EFE96876494}|Playground.Application\\Playground.Application.csproj|solutionrelative:playground.application\\dependencyinjection\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Playground.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Playground.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:36:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Playground.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Playground.Infrastructure\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:47:04.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.Application\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Playground.Application\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.Application\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Playground.Application\\DependencyInjection\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:46:19.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Program.cs",
+              "RelativeDocumentMoniker": "Playground.API\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Program.cs",
+              "RelativeToolTip": "Playground.API\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:35:42.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "Playground.API\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "Playground.API\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:27:38.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Playground.API\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.API\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Playground.API\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:17:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateRestaurantDto.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DishFlow\\backend\\Playground.Application\\DTOs\\UpdateRestaurantDto.cs",
+              "RelativeDocumentMoniker": "Playground.Application\\DTOs\\UpdateRestaurantDto.cs",
+              "ToolTip": "C:\\Repositorio\\DishFlow\\backend\\Playground.Application\\DTOs\\UpdateRestaurantDto.cs",
+              "RelativeToolTip": "Playground.Application\\DTOs\\UpdateRestaurantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:16:28.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
